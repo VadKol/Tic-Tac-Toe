@@ -1,5 +1,6 @@
 {
-  "name": "tic-tac-toe-task-v3",
+  "name": "tic-tac-toe",
+  "homepage": "https://VadKol.github.io/Tic-Tac-Toe/",
   "private": true,
   "version": "0.0.0",
   "type": "module",

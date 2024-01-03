@@ -1,5 +1,5 @@
 # Tic tac toe
-## [Tic tac toe 🚘 (Demo)](https://vadkol.github.io/CarsApp/) 👈👈👈
+## [Tic tac toe 🚘 (Demo)](https://VadKol.github.io/Tic-Tac-Toe/) 👈👈👈
 
 <hr />
 
